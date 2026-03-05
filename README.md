@@ -1,4 +1,4 @@
 # testexample2020
-an example
+This is an example to get familiar with GitHub.
 
-hello, world!
+Hello, world!
