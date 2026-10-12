@@ -1,3 +1,4 @@
+name: a minimum workflow
 on: push
 jobs:
   hello:
